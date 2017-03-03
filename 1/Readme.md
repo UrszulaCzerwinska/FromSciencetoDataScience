@@ -2,6 +2,8 @@
 Friday, 31 March 2016
 CRI, Montparnasse tower 
 
+See the [leaflet](./seminar_leaflet#1.pdf) 
+
 ## 1
 
 * [slides (pdf file)]<!--- (./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf) --->
