@@ -18,6 +18,7 @@ CRI, Montparnasse tower
 
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
+
 Otherwise send invitation request to: cri-data-science-club@googlegroups.com
 
 ## License
