@@ -2,7 +2,7 @@
 Friday, 31 March 2016
 CRI, Montparnasse tower 
 
-See the [leaflet](./seminar_leaflet#1.pdf) 
+See the [leaflet](./seminar_leaflet#1.jpg) 
 
 ## 1
 
@@ -12,6 +12,7 @@ See the [leaflet](./seminar_leaflet#1.pdf)
 ## 2
 
 * not available
+* 
 
 ## 3
 
