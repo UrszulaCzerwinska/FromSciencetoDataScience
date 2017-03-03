@@ -6,7 +6,7 @@ See the [leaflet](./seminar_leaflet#1.jpg)
 
 ## 1
 
-* [slides (pdf file)]<!--- (./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf) --->
+* [slides (pdf file)] <!--- (./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf) -->
 
 
 ## 2
@@ -17,7 +17,7 @@ See the [leaflet](./seminar_leaflet#1.jpg)
 ## 3
 
 
-* [slides]<!---(http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) --->
+* [slides]<!---(http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
 
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
