@@ -1,0 +1,9 @@
+
+\.DS_Store
+#System Files
+.DS_Store
+Thumbs.db
+
+#ppt
+.ppt
+.pptx
