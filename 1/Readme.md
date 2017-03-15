@@ -2,6 +2,8 @@
 Friday, 31 March 2016 <br>
 CRI, Montparnasse tower <br>
 
+Link to [tickets](https://www.eventbrite.com/e/from-science-to-data-science-tickets-32045052615)
+
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
 ## Nicolas Thiebaut 
