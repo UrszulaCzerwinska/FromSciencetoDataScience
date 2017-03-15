@@ -6,7 +6,7 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 
 ## 1
 
-* [slides (pdf file)] <!--- (./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf) -->
+* [slides (pdf file)] (From science to data science - SENECAL 2017.pdf) 
 
 
 ## 2
