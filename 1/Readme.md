@@ -12,10 +12,10 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 #Opportunities for internships for MS/MEng students :
 * 4 to 6 months duration
 * Schedule: application from November for the forthcoming year
-# Opportunities for apprenticeship, PhD programs (CIFRE) and post-docs
-# Opportunities for permanent positions: [Research Engineer/Scientist](https://orange.jobs/site/en-home/)
+#Opportunities for apprenticeship, PhD programs (CIFRE) and post-docs
+#Opportunities for permanent positions: [Research Engineer/Scientist](https://orange.jobs/site/en-home/)
 
-# Contact: Stephane SENECAL
+#Contact: Stephane SENECAL
 * email: stephane.senecal@orange.com
 * LinkedIn: http://fr.linkedin.com/in/stephanesenecal
 
