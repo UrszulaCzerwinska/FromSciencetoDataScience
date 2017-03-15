@@ -9,11 +9,21 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 
 * [slides](./From%20science%20to%20data%20science%20-%20SENECAL%202017.pdf) 
 
-### Opportunities for internships for MS/MEng students :
+### Keywords: 
+* reinforcement learning
+..* Dynamic programming
+..* Temporal Differences (TD-lambda)
+..* Q-Learning algorithm and its extensions (SARSA, eligibility traces)
+..* Parametric approximation techniques (Policy Gradient, Least Squares
+Policy Iteration)
+* supervised learning
+* unsupervised learning
+
+Opportunities for internships for MS/MEng students :
 * 4 to 6 months duration
 * Schedule: application from November for the forthcoming year
-### Opportunities for apprenticeship, PhD programs (CIFRE) and post-docs
-### Opportunities for permanent positions: [Research Engineer/Scientist](https://orange.jobs/site/en-home/)
+Opportunities for apprenticeship, PhD programs (CIFRE) and post-docs
+Opportunities for permanent positions: [Research Engineer/Scientist](https://orange.jobs/site/en-home/)
 
 ### Contact: Stephane SENECAL
 * email: stephane.senecal@orange.com
