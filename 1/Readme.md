@@ -11,10 +11,10 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 
 ### Keywords: 
 * reinforcement learning
-** Dynamic programming
-** Temporal Differences (TD-lambda)
-** Q-Learning algorithm and its extensions (SARSA, eligibility traces)
-** Parametric approximation techniques (Policy Gradient, Least Squares
+-- Dynamic programming
+-- Temporal Differences (TD-lambda)
+-- Q-Learning algorithm and its extensions (SARSA, eligibility traces)
+-- Parametric approximation techniques (Policy Gradient, Least Squares
 Policy Iteration)
 * supervised learning
 * unsupervised learning
