@@ -4,9 +4,10 @@ CRI, Montparnasse tower
 
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
-## 1
+## Stéphane Senecal 
+#From PhD in signal processing to R&D engineer/scientist, Orange
 
-* [slides (pdf file)] (From science to data science - SENECAL 2017.pdf) 
+* [slides](From science to data science - SENECAL 2017.pdf) 
 
 
 ## 2
