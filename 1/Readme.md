@@ -1,6 +1,6 @@
 # Slides and code for the 1st Frome Science to Data Science
-Friday, 31 March 2016
-CRI, Montparnasse tower 
+Friday, 31 March 2016 <br>
+CRI, Montparnasse tower <br>
 
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
