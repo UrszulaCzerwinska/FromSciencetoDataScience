@@ -4,8 +4,19 @@ CRI, Montparnasse tower
 
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
+## Nicolas Thiebaut 
+### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
+
+<!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+
+## Luc Boruta 
+### From PhD in Computational Lingustics to CEO, Thunken
+
+
+<!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+
 ## Stéphane Senecal
-### From PhD in signal processing to R&D engineer/scientist, Orange
+### From PhD in Signal Processing to R&D engineer/scientist, Orange
 
 * [slides](./From%20science%20to%20data%20science%20-%20SENECAL%202017.pdf) 
 
@@ -15,9 +26,12 @@ See the [leaflet](./seminar_leaflet%231.jpg)
   - Temporal Differences (TD-lambda)
   - Q-Learning algorithm and its extensions (SARSA, eligibility traces)
   - Parametric approximation techniques (Policy Gradient, Least Squares
+  - Deep reinforcement learning **AlphaGo**
 Policy Iteration)
 * supervised learning
 * unsupervised learning
+* Markov Chain Monte Carlo (MCMC) simulation methods
+* network models 
 
 Opportunities for internships for MS/MEng students :
 * 4 to 6 months duration
@@ -29,15 +43,6 @@ Opportunities for permanent positions: [Research Engineer/Scientist](https://ora
 * email: stephane.senecal@orange.com
 * LinkedIn: http://fr.linkedin.com/in/stephanesenecal
 
-## 2
-
-* not available
-* 
-
-## 3
-
-
-* [slides]<!---(http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
 
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
