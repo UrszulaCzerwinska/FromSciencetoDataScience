@@ -7,13 +7,18 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 ## Nicolas Thiebaut 
 ### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
 
+
 <!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+
+
 
 ## Luc Boruta 
 ### From PhD in Computational Lingustics to CEO, Thunken
 
 
 <!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+
+
 
 ## Stéphane Senecal
 ### From PhD in Signal Processing to R&D engineer/scientist, Orange
@@ -39,7 +44,7 @@ Opportunities for internships for MS/MEng students :
 Opportunities for apprenticeship, PhD programs (CIFRE) and post-docs
 Opportunities for permanent positions: [Research Engineer/Scientist](https://orange.jobs/site/en-home/)
 
-### Contact: Stephane SENECAL
+### Contact
 * email: stephane.senecal@orange.com
 * LinkedIn: http://fr.linkedin.com/in/stephanesenecal
 
