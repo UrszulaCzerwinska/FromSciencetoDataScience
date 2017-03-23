@@ -1,4 +1,4 @@
-# Slides and code for the 1st Frome Science to Data Science
+# From Science to Data Science #1
 Friday, 31 March 2016 <br>
 CRI, Montparnasse tower <br>
 
