@@ -21,6 +21,6 @@ All materials from the seminars are available in this repository.
 ----------
 List of events
 <ul>
-<li><a target="_blank" href="{{ site.baseurl }}/works/FSctoDs/1"><font color="#33a4c9"> #1 </font>31.03.2017</a></li>
-<li><a target="_blank" href="{{ site.baseurl }}/works/FSctoDs/2"><font color="#33a4c9"> #2 </font>16.05.2017 <i>to be updated</i></a></li>
+<li><a target="_blank" href="./1"><font color="#33a4c9"> #1 </font>31.03.2017</a></li>
+<li><a target="_blank" href="./2"><font color="#33a4c9"> #2 </font>16.05.2017 <i>to be updated</i></a></li>
 </ul>
