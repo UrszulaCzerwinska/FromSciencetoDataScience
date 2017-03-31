@@ -17,10 +17,23 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 ## Luc Boruta 
 ### From PhD in Computational Lingustics to CEO, Thunken
 
+* [slides](./fdv-datasci-luc.pdf) 
 
-<!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+### Keywords
+* PhD:
+    - Computational models of early phonological acquisition 
+    - “Psychocomputational linguistics”
+    - Unsupervised machine learning (fun!)
+* NLP @Thunken
+    - NLP consulting /own products 
+    - IronSift : Strategic and competitive intelligence
 
 
+***Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it...*** Dan Ariely, Duke University
+
+### Contact
+* email: luc@thunken.com
+* LinkedIn: https://www.linkedin.com/in/lucboruta/
 
 ## Stéphane Senecal
 ### From PhD in Signal Processing to R&D engineer/scientist, Orange
