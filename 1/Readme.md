@@ -9,7 +9,6 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 ## Intro
 
 ### Urszula Czerwinska
-<br>
 * [slides](./CRIDSclub.pdf) 
 * email: urszula.czerwinska@cri-paris.org
 * website: http://urszulaczerwinska.github.io/
