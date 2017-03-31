@@ -6,9 +6,9 @@ Link to [tickets](https://www.eventbrite.com/e/from-science-to-data-science-tick
 
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
-##Intro
+## Intro
 
-###Urszula Czerwinska
+### Urszula Czerwinska
 <br>
 * [slides](./CRIDSclub.pdf) 
 * email: urszula.czerwinska@cri-paris.org
