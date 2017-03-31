@@ -7,9 +7,10 @@ Link to [tickets](https://www.eventbrite.com/e/from-science-to-data-science-tick
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
 ##Intro
+
 ###Urszula Czerwinska
 <br>
-##* [slides](./CRIDSclub.pdf) 
+* [slides](./CRIDSclub.pdf) 
 * email: urszula.czerwinska@cri-paris.org
 * website: http://urszulaczerwinska.github.io/
 
@@ -88,8 +89,7 @@ Opportunities for permanent positions: [Research Engineer/Scientist](https://ora
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
 
-Otherwise send invitation request to: cri-data-science-club@googlegroups.com
-
+Otherwise send invitation request to: urszula.czerwinska@cri-paris.org
 ## License
 https://creativecommons.org/licenses/by/4.0/
 
