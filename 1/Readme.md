@@ -6,13 +6,34 @@ Link to [tickets](https://www.eventbrite.com/e/from-science-to-data-science-tick
 
 See the [leaflet](./seminar_leaflet%231.jpg) 
 
+##Intro
+###Urszula Czerwinska
+<br>
+##* [slides](./CRIDSclub.pdf) 
+* email: urszula.czerwinska@cri-paris.org
+* website: http://urszulaczerwinska.github.io/
+
+
+
 ## Nicolas Thiebaut 
 ### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
 
+* [slides](./Présentation_Thiebaut_Science2DataScience.pdf) 
 
-<!---* [slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks) -->
+### Keywords
+* PhD: 
+  - transverable skills
+  - coding
+  - focused on specific field
 
+* QuantMetry
+  - data consulting start-ups
+  - very diverse projects 
+  - Python
+  - R&D, recruting, presentations
 
+### Contact
+* LinkedIn: https://www.linkedin.com/in/nthiebaut/
 
 ## Luc Boruta 
 ### From PhD in Computational Lingustics to CEO, Thunken
