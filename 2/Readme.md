@@ -1,4 +1,4 @@
-# From Science to Data Science #1
+# From Science to Data Science #2
 Tuesday, 16 May 2107 <br>
 CRI, Montparnasse tower <br>
 seminar room 21.09<br>

@@ -18,7 +18,7 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 ### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
 
 
-* [slides](https://github.com/UrszulaCzerwinska/FromSciencetoDataScience/blob/master/1/Presentation_Thiebaut_Science2DataScience.pdf) 
+* [slides](./Presentation_Thiebaut_Science2DataScience.pdf) 
 
 ### Keywords
 * PhD: 
