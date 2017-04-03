@@ -85,6 +85,10 @@ Opportunities for permanent positions: [Research Engineer/Scientist](https://ora
 * LinkedIn: http://fr.linkedin.com/in/stephanesenecal
 
 
+## Pictures
+![alt tag](https://lh5.googleusercontent.com/jm0bokrQ5bSJVQpMlS2-ThJoJgiWxvLqp2ZyxDrGzmUbtXI8IYIBrtuFK7DYKPAPDMOI3a642FYbmZRQyMID7w=w2880-h1452-rw)
+
+
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
 
