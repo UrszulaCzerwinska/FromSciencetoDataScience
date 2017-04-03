@@ -87,7 +87,12 @@ Opportunities for permanent positions: [Research Engineer/Scientist](https://ora
 
 ## Pictures
 ![alt tag](https://lh5.googleusercontent.com/jm0bokrQ5bSJVQpMlS2-ThJoJgiWxvLqp2ZyxDrGzmUbtXI8IYIBrtuFK7DYKPAPDMOI3a642FYbmZRQyMID7w=w2880-h1452-rw)
-![alt tag](https://drive.google.com/open?id=1Q2zkQiOxY2poL11kIZ7xO__5Vd34Th2PqQ)
+![alt tag](https://lh4.googleusercontent.com/Ny38Lkk8K3Xj5wvbPCQkqJMmmHL2HdGqI1c8gmKYJWzAH5s8Fck2mpU1aNFEOkgqqY6qRBUXbcYNRYQ=w2880-h1452-rw)
+![alt tag](https://lh4.googleusercontent.com/bdpZk697BpTgo7m1zuNvPl34H8tRaIdc7XVoKnPHAOaSjUQGml4t64pu-3e1NUib8kRAlcc8A3RxqyU=w2880-h1452-rw)
+![alt tag](https://lh3.googleusercontent.com/Z2kZgJIv5OZZeHXNxmf0tjw1HojvvTA8vsIRzED57nFOwxZ0drTTjuR3PVZbOBHvvuA0T0XtmmeqWVI=w2880-h1452-rw)
+![alt tag](https://lh3.googleusercontent.com/jmuSzhAVrrSTGBdojT0v7KB_hyAmvuabCFiPadc6BWdERNY7ysezpp7ju-iflrRdrSY9Uwb1NWtdsNfHDTPRzQ=w2880-h1452-rw)
+![alt tag](https://lh3.googleusercontent.com/RO23bfhVtIHwOyvTpM7PKJvth-BPrMghIoxsbebf3aYWd-DVqkk8wFXFlhg79gWjaAVd6XOJZlL9BqDOYm0OXQ=w2880-h1452-rw)
+![alt tag](https://lh3.googleusercontent.com/u4Q6wCHW14lYh9cmhwbAAGDxpidGBiYfEmZy6RHMv1WYE_WfE0MRO-mOQb7olmsCLZyhqzMe52ftW1jidhiNkA=w2880-h1452-rw)
 
 
 ## Questions
