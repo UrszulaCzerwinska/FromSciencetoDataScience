@@ -87,6 +87,7 @@ Opportunities for permanent positions: [Research Engineer/Scientist](https://ora
 
 ## Pictures
 ![alt tag](https://lh5.googleusercontent.com/jm0bokrQ5bSJVQpMlS2-ThJoJgiWxvLqp2ZyxDrGzmUbtXI8IYIBrtuFK7DYKPAPDMOI3a642FYbmZRQyMID7w=w2880-h1452-rw)
+![alt tag](https://drive.google.com/open?id=1Q2zkQiOxY2poL11kIZ7xO__5Vd34Th2PqQ)
 
 
 ## Questions
