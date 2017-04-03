@@ -14,15 +14,11 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 * website: http://urszulaczerwinska.github.io/
 
 
-
 ## Nicolas Thiebaut 
 ### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
 
-<<<<<<< HEAD
-* [slides](./Présentation_Thiebaut_Science2DataScience.pdf) 
-=======
-* [slides](https://github.com/UrszulaCzerwinska/FromSciencetoDataScience/blob/master/1/Pr%C3%A9sentation_Thiebaut_Science2DataScience.pdf) 
->>>>>>> c0c8b0ec1b73c3c426d00a2f0256c28635d179f4
+
+* [slides](https://github.com/UrszulaCzerwinska/FromSciencetoDataScience/blob/master/1/Presentation_Thiebaut_Science2DataScience.pdf) 
 
 ### Keywords
 * PhD: 
