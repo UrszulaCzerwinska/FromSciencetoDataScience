@@ -17,8 +17,11 @@ Data Science club at the CRI is a structure to create a network interested in Da
 We propose a formula of self-paced club which would reduce the in-person meeting and provide online forum for exchange of knowledge for everyone. In addition to online group that would be sharing resources and exchange information. We organize workshops in little groups in order to learn i.e. a new skill, complete an online course and also bigger events with invited speakers – domain experts – from academia and industry.
 
 ----------
+
 All materials from the seminars are available in this repository.
+
 ----------
+
 List of events
 <ul>
 <li><a target="_blank" href="./1"><font color="#33a4c9"> #1 </font>31.03.2017</a></li>
