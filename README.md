@@ -24,3 +24,6 @@ List of events
 <li><a target="_blank" href="./1"><font color="#33a4c9"> #1 </font>31.03.2017</a></li>
 <li><a target="_blank" href="./2"><font color="#33a4c9"> #2 </font>16.05.2017 <i>to be updated</i></a></li>
 </ul>
+
+![alt tag](https://lh3.googleusercontent.com/Z2kZgJIv5OZZeHXNxmf0tjw1HojvvTA8vsIRzED57nFOwxZ0drTTjuR3PVZbOBHvvuA0T0XtmmeqWVI=w2880-h1452-rw)
+![alt tag](https://lh4.googleusercontent.com/bdpZk697BpTgo7m1zuNvPl34H8tRaIdc7XVoKnPHAOaSjUQGml4t64pu-3e1NUib8kRAlcc8A3RxqyU=w2880-h1452-rw)
