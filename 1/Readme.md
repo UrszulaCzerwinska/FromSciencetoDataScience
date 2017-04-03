@@ -18,7 +18,7 @@ See the [leaflet](./seminar_leaflet%231.jpg)
 ## Nicolas Thiebaut 
 ### From PhD in Theoretical Physics to Data Science Consultant, Quantmetry
 
-* [slides](./Présentation_Thiebaut_Science2DataScience.pdf) 
+* [slides](./Présentation_Thiebaut_Science2DataScience.pdf) 
 
 ### Keywords
 * PhD: 
