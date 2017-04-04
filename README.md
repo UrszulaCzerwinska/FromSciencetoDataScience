@@ -28,5 +28,5 @@ List of events
 <li><a target="_blank" href="./2"><font color="#33a4c9"> #2 </font>16.05.2017</a></li>
 </ul>
 
-![alt tag](https://lh3.googleusercontent.com/Z2kZgJIv5OZZeHXNxmf0tjw1HojvvTA8vsIRzED57nFOwxZ0drTTjuR3PVZbOBHvvuA0T0XtmmeqWVI=w2880-h1452-rw)
-![alt tag](https://lh4.googleusercontent.com/bdpZk697BpTgo7m1zuNvPl34H8tRaIdc7XVoKnPHAOaSjUQGml4t64pu-3e1NUib8kRAlcc8A3RxqyU=w2880-h1452-rw)
+![alt tag](./P_20170331_182218.jpg)
+![alt tag](./P_20170331_182422.jpg)
