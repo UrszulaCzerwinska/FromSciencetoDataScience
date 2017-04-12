@@ -6,6 +6,7 @@ seminar room 21.09<br>
 <!-- Link to [tickets](https://www.eventbrite.com/e/from-science-to-data-science-tickets-32045052615)
  -->
 See the [leaflet](./seminarV2.ai.pdf) 
+Subscribe [here](https://events.cri-paris.org/event/24/attendees?sort_by=created_at&sort_order=desc&q=&page=1) 
 
 <!-- ## Intro
 
