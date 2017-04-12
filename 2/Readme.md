@@ -7,7 +7,7 @@ seminar room 21.09<br>
  -->
 See the [leaflet](./seminarV2.ai.pdf) 
 
-Subscribe [here](https://events.cri-paris.org/event/24/attendees?sort_by=created_at&sort_order=desc&q=&page=1) 
+Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by=created_at&sort_order=desc&q=&page=1) 
 
 <!-- ## Intro
 
@@ -42,17 +42,14 @@ Subscribe [here](https://events.cri-paris.org/event/24/attendees?sort_by=created
 ### From PhD in Mathematics applied to biology to CSO Owkin
 <!-- 
 * [slides](./fdv-datasci-luc.pdf) 
-
+-->
 ### Keywords
-* PhD:
-    - Computational models of early phonological acquisition 
-    - “Psychocomputational linguistics”
-    - Unsupervised machine learning (fun!)
-* NLP @Thunken
-    - NLP consulting /own products 
-    - IronSift : Strategic and competitive intelligence
+* Noise signal
+* Mathematical mathods for biology problems
+* start-up in healthcare & AI : predicting better prognosis & treatment
 
 
+<!-- 
 ***Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it...*** Dan Ariely, Duke University
 
 ### Contact
