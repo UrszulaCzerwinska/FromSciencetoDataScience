@@ -7,7 +7,7 @@ See the [leaflet](./seminarV2.ai.pdf) and [leaflet](./seminarV3.ai.pdf)
 
 Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by=created_at&sort_order=desc&q=&page=1) 
 
- ## Intro
+## Intro
 
 ### Urszula Czerwinska
 * [slides](./CRIDSclub2.pdf) 
@@ -46,7 +46,7 @@ Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by
 
 ***I was looking for collective behavior induced by interactions between entities...***
  
- ### Contact
+### Contact
 * LinkedIn: https://www.linkedin.com/in/joseph-pellegrino-a0092399/
 
 ## Gilles Wainrib
