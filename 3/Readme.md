@@ -1,6 +1,6 @@
 # From Science to Data Science #3 - Data jobs morning
 Wednesday, 27 September 2107 <br>
-<br>
+8AM - 10h30 AM <br>
 
 <!-- See the [leaflet](./seminarV2.ai.pdf) and [leaflet](./seminarV3.ai.pdf)
  -->
