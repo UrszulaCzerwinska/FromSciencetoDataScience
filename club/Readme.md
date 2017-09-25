@@ -12,7 +12,27 @@ The club born in September 2017 initially gathered 10 students from Licence, Mas
 
 Besides events Data Science club is a platform for sharing resources and information exchange. It also allows active members participation in Data Science related conferences and seminars. 
 
-###Table of contents
+### Table of Contents
+<!-- **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)* -->
+
+- [Activity report 2016-2017](#)
+	- [CRI Data Science Club executive summary](#)
+	- [Why Data Science](#)
+		- [Data Science](#)
+		- [Interdisciplinarity and Data Science](#)
+		- [Job market in Data Science](#)
+	- [CRI Data Science Club activity 2016-2017](#)
+			- [Topics and content](#)
+				- [Participation in conferences](#)
+		- [Club organization & management](#)
+			- [Internal communication channels](#)
+		- [Financial report summary](#)
+			- [EduData Heckathon](#)
+	- [Future of Data Science Club](#)
+		- [Organisation](#)
+		- [Possible events](#)
+		- [Budget plan](#)
+	- [Conclusions & Recommendations](#)
 
 ### Why Data Science
 
@@ -26,11 +46,11 @@ Besides events Data Science club is a platform for sharing resources and informa
 
 ### CRI Data Science Club activity 2016-2017
 
-####Club meetings & events
+#### Club meetings & events
 
 ##### Topics and content
 
-######EduData Heckathon
+###### EduData Heckathon
 
 First event organized  by Data Science Club was a Edu Data Heckathon that took place 27-29 January 2017 at Montparnasse tower. 
 
@@ -52,7 +72,7 @@ More detailed results can be found in [*Annexe1: Synthesis of the EduData Hackat
 
 Coordinator of the heckathon: [Iryna Nikolayeva](iryna.nikolayeva@cri-paris.org)
 
-######From Science to Data Science seminars 
+###### From Science to Data Science seminars 
 
 In an ordinary life of a PhD candidate working in a research lab, we have little chance to meet companies and industry partners. Especially in a light of big data revolution analytical skills of PhDs are very precious and open many doors of possible career. In order to encourage exchange between research students/PhD and data science Data Science Club launched a series of seminars **From Science to Data Science**. 
 
@@ -74,7 +94,7 @@ Data Science Club representatives (Urszula Czerwinska & Liliana Baquero) partici
 
 #### Club organization & management
 
-#####General organisation
+##### General organisation
 
 In the beginning club had weekly meetings, that due to schedule incompatibility were moved online to slack group cri-data-science-club.slack.com. Then around specific events working groups were formed and additional meetings were scheduled.
 
@@ -82,7 +102,7 @@ In the beginning club had weekly meetings, that due to schedule incompatibility 
 
 Official main internal communication tool of Data Science Club is cri-data-science-club.slack.com. 
 
-#####External communication channels
+##### External communication channels
 
 Club announces events on CRI platform [attendize](https://events.cri-paris.org/e/96/from-science-to-data-science-3-new-jobs-and-skills-in-big-data), reports events on the [From Science to Data Science seminars website](https://urszulaczerwinska.github.io/FromSciencetoDataScience/), through CRI moodle. In addition seminar uses [#FStoDS](https://twitter.com/hashtag/fstods?f=tweets&vertical=default&src=hash) hashtag on Twitter, and is advertised by club members and supporters on LinkedIn. Club also usually prepares little posters that are set up in the CRI locals. 
 
@@ -92,7 +112,7 @@ Club announces events on CRI platform [attendize](https://events.cri-paris.org/e
 
 ~100€= 61,85€+ ~40€
 
-#####From Science to Data Sience seminars 
+##### From Science to Data Sience seminars 
 
 1) founded from FdV budget
 
@@ -102,7 +122,7 @@ Club announces events on CRI platform [attendize](https://events.cri-paris.org/e
 
 
 
-####Partners & Acknowledgements
+#### Partners & Acknowledgements
 
 CRI Data Science Club received important support from the CRI and external partners. 
 
