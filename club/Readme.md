@@ -15,24 +15,32 @@ Besides events Data Science club is a platform for sharing resources and informa
 ### Table of Contents
 <!-- **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)* -->
 
-- [Activity report 2016-2017](#)
-	- [CRI Data Science Club executive summary](#)
-	- [Why Data Science](#)
-		- [Data Science](#)
-		- [Interdisciplinarity and Data Science](#)
-		- [Job market in Data Science](#)
-	- [CRI Data Science Club activity 2016-2017](#)
-			- [Topics and content](#)
-				- [Participation in conferences](#)
-		- [Club organization & management](#)
-			- [Internal communication channels](#)
-		- [Financial report summary](#)
+
+
+- [Why Data Science](#)
+	- [Data Science](#)
+	- [Interdisciplinarity and Data Science](#)
+	- [Job market in Data Science](#)
+- [CRI Data Science Club activity 2016-2017](#)
+	- [Club meetings & events](#)
+		- [Topics and content](#)
 			- [EduData Heckathon](#)
-	- [Future of Data Science Club](#)
-		- [Organisation](#)
-		- [Possible events](#)
-		- [Budget plan](#)
-	- [Conclusions & Recommendations](#)
+			- [From Science to Data Science seminars](#)
+			- [Participation in conferences](#)
+	- [Club organization & management](#)
+		- [General organisation](#)
+		- [Internal communication channels](#)
+		- [External communication channels](#)
+	- [Financial report summary](#)
+		- [EduData Heckathon](#)
+		- [From Science to Data Sience seminars](#)
+	- [Partners & Acknowledgements](#)
+- [Future of Data Science Club](#)
+	- [Organisation](#)
+	- [Possible events](#)
+	- [Budget plan](#)
+- [Conclusions & Recommendations](#)
+
 
 ### Why Data Science
 
