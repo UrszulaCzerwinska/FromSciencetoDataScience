@@ -12,8 +12,6 @@ The club born in September 2017 initially gathered 10 students from Licence, Mas
 
 Besides events Data Science club is a platform for sharing resources and information exchange. It also allows active members participation in Data Science related conferences and seminars. 
 
-
-Inline-style: 
 ![alt text](./images/bird.png "Logo Data Science Club")
 
 ### Table of Contents
