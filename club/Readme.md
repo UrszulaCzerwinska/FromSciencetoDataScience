@@ -14,7 +14,7 @@ Besides events Data Science club is a platform for sharing resources and informa
 
 
 Inline-style: 
-![alt text](./img/bird.png "Logo Data Science Club")
+![alt text](./images/bird.png "Logo Data Science Club")
 
 ### Table of Contents
 <!-- **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)* -->
