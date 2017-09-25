@@ -12,33 +12,38 @@ The club born in September 2017 initially gathered 10 students from Licence, Mas
 
 Besides events Data Science club is a platform for sharing resources and information exchange. It also allows active members participation in Data Science related conferences and seminars. 
 
+```
+Inline-style: 
+![alt text](./img/bird.png "Logo Data Science Club")
+```
+
 ### Table of Contents
 <!-- **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)* -->
 
 
 
 - [Why Data Science](#)
-	- [Data Science](#)
-	- [Interdisciplinarity and Data Science](#)
-	- [Job market in Data Science](#)
+  - [Data Science](#)
+  - [Interdisciplinarity and Data Science](#)
+  - [Job market in Data Science](#)
 - [CRI Data Science Club activity 2016-2017](#)
-	- [Club meetings & events](#)
-		- [Topics and content](#)
-			- [EduData Heckathon](#)
-			- [From Science to Data Science seminars](#)
-			- [Participation in conferences](#)
-	- [Club organization & management](#)
-		- [General organisation](#)
-		- [Internal communication channels](#)
-		- [External communication channels](#)
-	- [Financial report summary](#)
-		- [EduData Heckathon](#)
-		- [From Science to Data Sience seminars](#)
-	- [Partners & Acknowledgements](#)
+  - [Club meetings & events](#)
+    - [Topics and content](#)
+      - [EduData Heckathon](#)
+      - [From Science to Data Science seminars](#)
+      - [Participation in conferences](#)
+  - [Club organization & management](#)
+    - [General organisation](#)
+    - [Internal communication channels](#)
+    - [External communication channels](#)
+  - [Financial report summary](#)
+    - [EduData Heckathon](#)
+    - [From Science to Data Sience seminars](#)
+  - [Partners & Acknowledgements](#)
 - [Future of Data Science Club](#)
-	- [Organisation](#)
-	- [Possible events](#)
-	- [Budget plan](#)
+  - [Organisation](#)
+  - [Possible events](#)
+  - [Budget plan](#)
 - [Conclusions & Recommendations](#)
 
 
