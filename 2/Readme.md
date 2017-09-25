@@ -5,7 +5,7 @@ seminar room 21.09<br>
 
 See the [leaflet](./seminarV2.ai.pdf) and [leaflet](./seminarV3.ai.pdf)
 
-Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by=created_at&sort_order=desc&q=&page=1) 
+Tickets available [here](https://events.cri-paris.org/e/24/from-science-to-data-science-2) 
 
 ## Intro
 
@@ -13,7 +13,7 @@ Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by
 * [slides](./CRIDSclub2.pdf) 
 * email: urszula.czerwinska@cri-paris.org
 * website: http://urszulaczerwinska.github.io/
- 
+
 
 ## Joseph Pellegrino
 ### From PhD in Quantum Physics to Chief Data Scientist, Kernix
@@ -45,7 +45,7 @@ Tickets available [here](https://events.cri-paris.org/event/24/attendees?sort_by
   - https://www.phdtalent.org/
 
 ***I was looking for collective behavior induced by interactions between entities...***
- 
+
 ### Contact
 * LinkedIn: https://www.linkedin.com/in/joseph-pellegrino-a0092399/
 
