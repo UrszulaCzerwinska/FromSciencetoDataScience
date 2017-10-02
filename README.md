@@ -32,3 +32,9 @@ List of events
 
 ![alt tag](./P_20170331_182218.jpg)
 ![alt tag](./P_20170331_182422.jpg)
+
+
+
+#### Activity report
+
+You can access our activity report  2016/2017 of the **CRI Data Science Club** [*here*](./club/Readme.md).
