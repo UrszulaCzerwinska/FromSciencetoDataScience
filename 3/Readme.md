@@ -1,4 +1,18 @@
+
+blockquote {
+    max-width:390px;
+    color: #5c4c40;
+    text-align: center; 
+    border-left: 3px solid #897860; 
+    padding-left: 5px;
+    margin:0 auto;
+    background:red;
+    width:auto;
+    display:table
+}
+
 # From Science to Data Science #3 - Data jobs morning
+
 Wednesday, 27 September 2107 <br>
 8AM - 10h30 AM <br>
 
