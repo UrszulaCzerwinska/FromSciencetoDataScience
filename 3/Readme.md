@@ -1,16 +1,3 @@
-
-blockquote {
-    max-width:390px;
-    color: #5c4c40;
-    text-align: center; 
-    border-left: 3px solid #897860; 
-    padding-left: 5px;
-    margin:0 auto;
-    background:red;
-    width:auto;
-    display:table
-}
-
 # From Science to Data Science #3 - Data jobs morning
 
 Wednesday, 27 September 2107 <br>
@@ -35,7 +22,7 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
   * train yourself and build portfolio on [pivigo.com](https://www.pivigo.com/) and try *freelance*
   * gain business experience with  [**S2DS**](http://www.s2ds.org/) 5 week program on-site or on-line 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.</p>&mdash; Josh Wills (@josh_wills) <a href="https://twitter.com/josh_wills/status/198093512149958656?ref_src=twsrc%5Etfw">May 3, 2012</a></blockquote>
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.</p>&mdash; Josh Wills (@josh_wills) <a href="https://twitter.com/josh_wills/status/198093512149958656?ref_src=twsrc%5Etfw">May 3, 2012</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * #### for corporate
@@ -56,7 +43,6 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 
 * e-mail: [deepak.mahtani@pivigo.com](mailto:deepak.mahtani@pivigo.com)
 
-  ​
 
 
 ## Alexandre Templier
