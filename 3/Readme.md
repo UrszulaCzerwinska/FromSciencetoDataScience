@@ -2,100 +2,83 @@
 Wednesday, 27 September 2107 <br>
 8AM - 10h30 AM <br>
 
-<!-- See the [leaflet](./seminarV2.ai.pdf) and [leaflet](./seminarV3.ai.pdf)
- -->
+See the [leaflet](./DSHDI.pdf)
+
 
 Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-science-3-data-jobs-morning) 
 
-<!--## Intro
-
-### Urszula Czerwinska
-* [slides](./CRIDSclub2.pdf) 
-* email: urszula.czerwinska@cri-paris.org
-* website: http://urszulaczerwinska.github.io/ -->
- 
-
 ## Deepak Mahtani
-### Pivigo, S2DS
+### PhD in astrophysics, Data Scientist and community manager @ Pivigo & S2DS
 
-<!-- * [slides](./From_Science_to_Data Science.pdf)  -->
+* [slides](./Paris_2.pdf)  
 
-<!--### Keywords
-* PhD: 
-  - science for passion
-  - not happy with career prospects
-  - soft skills 
+### Keywords
 
-* Transition
-  - think what you like
-  - self-education through onlince courses 
-  - go to PhDTalent job fair 
+* #### for PhDs
 
-* Kernix
-  - data consulting
-  - medium size data
-  - diverse projects 
-  - group work
-  - building tools
-  - short time work packages (3 months)
-  - business understanding-->
+  * transition from PhD to Data Science is not that hard
+  * PhD already have 90% of needed skills 
+  * train yourself and build portfolio on [pivigo.com](https://www.pivigo.com/) and try *freelance*
+  * gain business experience with  [**S2DS**](http://www.s2ds.org/) 5 week program on-site or on-line 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.</p>&mdash; Josh Wills (@josh_wills) <a href="https://twitter.com/josh_wills/status/198093512149958656?ref_src=twsrc%5Etfw">May 3, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* #### for corporate
+
+  *  [pivigo.com](https://www.pivigo.com/) can put you in contact with great data scientists 
+  * it is not about **big** data but about **insightful** data
+  * skills of data scientists are transferrable to different fields of expertise
 
 ### Links
+
   - http://www.s2ds.org/
   - https://www.pivigo.com/
 
-<!--***I was looking for collective behavior induced by interactions between entities...***
- 
 ### Contact
-* LinkedIn: https://www.linkedin.com/in/joseph-pellegrino-a0092399/ -->
+* LinkedIn: www.linkedin.com/in/mahtani89
+
+* Twitter: [@deepakmahtani](https://twitter.com/deepakmahtani)
+
+* e-mail: [deepak.mahtani@pivigo.com](mailto:deepak.mahtani@pivigo.com)
+
+  ​
 
 
 ## Alexandre Templier
 ### Co-founder & chairman, QUINTEN Data Science Solutions
 
+* [slides](./Quinten.pdf)  
+
+### Keywords
+
+* models in Data Science can be classified into 5 families and Quinten is a pioneer of *Symbolists* models
+* data visualisation and user interface are crucial for clients
+* Quinten consulted in a plethora of different projects 
+
 ### Links
+
   - http://www.quinten-france.com/
- 
 
-<!--* absent 
-
-## Romain Laby
-### From PhD at Thales to Software engineer at Criteo
-
- * [slides](./prez_seminaire_16mai17.pdf)  
-
-### Keywords: 
-* PhD
-    - online anomaly localisation during plane flight
-    - graphical models
-    - model learning
-
-* Criteo
-    - very different challenges & technologies
-    - big data
-    - great working conditions
-
-* Data Science in a company
-    - 40% : understand the data 
-    - 30% : communicate: Proof of concept, updates, plannings, ... 
-    - 20% : research: The simplest works often fine !
-    - Remaining 10% : useless meetings
 
 ### Contact
-* email: romain.laby@criteo.com
-* LinkedIn: https://www.linkedin.com/in/romain-laby-87917a46/
 
+* e-mail: [a.templier@quinten-france.com ](mailto:a.templier@quinten-france.com)
+
+* twitter: [@QuintenFrance](https://twitter.com/quintenfrance?lang=en)
+
+  ​
+
+  ​
 
 ## Pictures
-![alt tag](./Photos/IMG_20170516_151805.jpg)
-![alt tag](./Photos/IMG_20170516_210307.jpg)
-![alt tag](./Photos/IMG_20170516_210313.jpg)
-![alt tag](./Photos/IMG_20170516_203646.jpg)
-![alt tag](./Photos/IMG_20170516_201553.jpg)
-![alt tag](./Photos/IMG_20170516_191653.jpg)
-![alt tag](./Photos/IMG_20170516_183740.jpg)
-![alt tag](./Photos/IMG_20170516_190228.jpg)
- -->
+![alt tag](./Photos/DJ6.jpg)
+![alt tag](./Photos/DJ1.jpg)
+![alt tag](./Photos/DJ4.jpg)
+![alt tag](./Photos/DS3.jpg)
+![alt tag](./Photos/DJ5.jpg)
+
+
 
 ## Questions
 If you have any question, please discuss on slack: https://cri-data-science-club.slack.com/ (with @cri-paris.org, @curie.fr or @pasteur.fr)
