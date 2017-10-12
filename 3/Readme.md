@@ -12,6 +12,7 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 ### PhD in astrophysics, Data Scientist and community manager @ Pivigo & S2DS
 
 * [slides](./Paris_2.pdf)  
+* see Healthcare Data Institute [**interview**](https://www.youtube.com/watch?v=Nuhp3Wv3QkM) with Deepak!
 
 ### Keywords
 
@@ -28,8 +29,8 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 * #### for corporate
 
   *  [pivigo.com](https://www.pivigo.com/) can put you in contact with great data scientists 
-  * it is not about **big** data but about **insightful** data
-  * skills of data scientists are transferrable to different fields of expertise
+  *  it is not about **big** data but about **insightful** data
+  *  skills of data scientists are transferrable to different fields of expertise
 
 ### Links
 
@@ -38,10 +39,14 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 
 ### Contact
 * LinkedIn: www.linkedin.com/in/mahtani89
-
 * Twitter: [@deepakmahtani](https://twitter.com/deepakmahtani)
-
 * e-mail: [deepak.mahtani@pivigo.com](mailto:deepak.mahtani@pivigo.com)
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nuhp3Wv3QkM" frameborder="0" allowfullscreen></iframe>
+
 
 
 
@@ -49,6 +54,7 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 ### Co-founder & chairman, QUINTEN Data Science Solutions
 
 * [slides](./Quinten.pdf)  
+* see Healthcare Data Institute [**interview**](https://www.youtube.com/watch?v=7FNFLGLrEQg) with Alexandre!
 
 ### Keywords
 
@@ -69,7 +75,7 @@ Tickets available [here](https://events.cri-paris.org/e/96/from-science-to-data-
 
   ​
 
-  ​
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7FNFLGLrEQg" frameborder="0" allowfullscreen></iframe>
 
 ## Pictures
 ![alt tag](./Photos/DJ6.jpg)
